@@ -1,0 +1,1 @@
+we propose Convolutional Neural Network (CNN) with attention mechanisms with an impressive accuracy of 95.51%. Our method is not only good at locating individual wildfires, but it also works well at identifying regions. This complete approach to wildfire monitoring offers an effective way to improve environmental safety and reduce the effects of these calamities.
